@@ -1,1 +1,4 @@
-# Vex
+- 👋 **Hi, I’m @Vex**
+- 👀 **I code in** ```PHP, HTML, CSS, Javascript & Lua```
+- 🌱 **I’m currently learning** ```Typescript, Python & C++```
+- 📫 **How to reach me** kontakt@vexdev.dk
