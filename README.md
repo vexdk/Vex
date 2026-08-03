@@ -1,4 +1,5 @@
 - 👋 **Hi, I’m @Vex**
 - 👀 **I code in** ```Typescript, Lua, Javascript```
+- 🎨 **Design Languages** ```React & Vite```
 - 🌱 **I’m currently learning** ```Python & C++```
 - 📫 **How to reach me** kontakt@vexdev.dk
